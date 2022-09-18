@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\bin\Debug\assignment2_AndreiKazakov.exe.config
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\bin\Debug\assignment2_AndreiKazakov.exe
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\bin\Debug\assignment2_AndreiKazakov.pdb
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\obj\Debug\assignment2_AndreiKazakov.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\obj\Debug\assignment2_AndreiKazakov.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\obj\Debug\assignment2_AndreiKazakov.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\obj\Debug\assignment2_AndreiKazakov.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\obj\Debug\assignment2_AndreiKazakov.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\obj\Debug\assignment2_AndreiKazakov.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\obj\Debug\assignment2_AndreiKazakov.exe
+\\Mac\Home\Documents\Visual Studio 2022\Projects\assignment2_AndreiKazakov\assignment2_AndreiKazakov\obj\Debug\assignment2_AndreiKazakov.pdb
