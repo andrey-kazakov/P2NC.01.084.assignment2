@@ -21,5 +21,21 @@ namespace assignment2_AndreiKazakov
         {
 
         }
+
+        private void ExitButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void ClearButton_Click(object sender, EventArgs e)
+        {
+            TextBox[] components = {ClassAInputTextBox, ClassBInputTextBox, ClassCInputTextBox, ClassAOutputTextBox, ClassBOutputTextBox, ClassCOutputTextBox, TotalOutputTextBox};
+
+            for (int i = 0; i < components.Length; i++) {
+                components[i].Text = "";
+            }
+
+            ValidationErrorLabel.Visible = false;
+        }
     }
 }
