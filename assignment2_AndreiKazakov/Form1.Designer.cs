@@ -231,6 +231,7 @@
             this.CalculateButton.TabIndex = 2;
             this.CalculateButton.Text = "Calculate\r\nRevenue";
             this.CalculateButton.UseVisualStyleBackColor = true;
+            this.CalculateButton.Click += new System.EventHandler(this.CalculateButton_Click);
             // 
             // ClearButton
             // 
